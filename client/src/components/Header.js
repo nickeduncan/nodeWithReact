@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Payments from './Payments';
 
 class Header extends Component {
 	render() {
