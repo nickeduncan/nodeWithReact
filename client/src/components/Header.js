@@ -10,8 +10,8 @@ class Header extends Component {
 						Emaily
 					</a>
 					<ul className="right">
-						<li><Payments /></li>
-						<li><a>Login With Google</a></li>
+						<li key="1"><Payments /></li>
+						<li key="2"><a>Login With Google</a></li>
 					</ul>
 				</div>
 			</nav>
